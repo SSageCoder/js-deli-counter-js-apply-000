@@ -1,4 +1,8 @@
 var katzDeli = [];
+var counter = 0;
+
+function takeANumber (currentLine, counter) {currentLine.push(counter); {return 'Your are number' = counter.length;
+
 
 function takeANumber (currentLine, newNumber) {
   currentLine.push(newName);
